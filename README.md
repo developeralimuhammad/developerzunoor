@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zunoor Talpur
+- 👋 Hi, I’m Ali Talpur
 - I'm passionate | Frontend Developer and Ui/Ux Developer from Pakistan
 - I’m currently doing bs public administration 
 - 📫 How to reach me > developerzunoor@gmail.com
